@@ -53,7 +53,7 @@ while run:
     sprites.update()
 
     # Draw
-    screen.fill(colours["white"])
+    screen.fill(colours["blue"])
     sprites.draw(screen)
     pygame.display.flip()
 
